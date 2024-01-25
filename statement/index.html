@@ -7,13 +7,13 @@
 </head>
 <body>
     <script> 
-
-
- 
- if (2>5) { 
-  console.log("ok")
+var score = parseInt(prompt("please enter your score"));
+ if (score>=90 && score<=100) { 
+ document.write("A+");
+ }else if(score>=80 && score<=89){ 
+    document.write("A")
  } else { 
-  console.log("not ok")
+    document.write("F")
  }
   
 
