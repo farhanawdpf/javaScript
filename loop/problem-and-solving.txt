@@ -9,12 +9,12 @@
 		d.If score is greater or equal 60 and less or equal 69 then will print D.
 		c. Otherwise will print F.
  	
-       6.Check a number is prime or not.
-       7. Find out even & odd number.
-       8.Javascript program counting vowels, consonants and show the occurrance.
-       9.Sorting three numbers in javaScript(Desending Order).
-       10.Sorting three numbers in javaScript(Ascending Order).
-       11.JavaScript program to print ascii patterns.
+       5.Check a number is prime or not.
+       6. Find out even & odd number.
+       7.Javascript program counting vowels, consonants and show the occurrance.
+       8.Sorting three numbers in javaScript(Desending Order).
+       9.Sorting three numbers in javaScript(Ascending Order).
+       10.JavaScript program to print ascii patterns.
 	
 	(1)        (2)    (3)       (4)     (5)
 	*         *****   *****	    1	    1
@@ -22,7 +22,11 @@
 	***	  ***	  *****	    123	    333
 	****	  **	  *****     1234    4444
 	*****	  *	  *****	    12345   55555
-	12.JavaScript Program to Print the Fibonacci Sequence, 0-10.
+	11.JavaScript Program to Print the Fibonacci Sequence, 0-10.
+	12.JavaScript Program to find largest number among three numbers.
+
+	13.JavaScript Program to determine if three number are consecutive
+
 
 
 
