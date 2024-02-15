@@ -38,4 +38,8 @@ form.addEventListener("submit", handleFormData);
 This code adds an event listener to the form's "submit" event. When the form is submitted, 
 it calls the handleFormData function to handle the form submission.
 
+<<<<<<< HEAD
 Overall, this JavaScript code sets up event listeners for form submission, performs form validation, displays error messages, and submits the form if there are no errors.
+=======
+Overall, this JavaScript code sets up event listeners for form submission, performs form validation, displays error messages, and submits the form if there are no errors.
+>>>>>>> 0f0aed4513a4205b4806e1784d3c25cd209313d7
