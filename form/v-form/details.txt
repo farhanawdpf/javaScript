@@ -14,13 +14,7 @@ After performing all validation checks, it checks if there are any remaining err
 
 If there are no errors, the form is submitted using form.submit().
 
-// Toggling password visibility
-passToggleBtn.addEventListener('click', () => {
-    passToggleBtn.className = passwordInput.type === "password" ? "fa-solid fa-eye-slash" : "fa-solid fa-eye";
-    passwordInput.type = passwordInput.type === "password" ? "text" : "password";
-});
 
-This code adds an event listener to the password toggle button. When the button is clicked, it toggles the visibility of the password field. If the password input type is currently "password", it changes the button's class to "fa-solid fa-eye-slash" to display a crossed-eye icon, and changes the password input type to "text" to reveal the password. If the password input type is currently "text", it changes the button's class to "fa-solid fa-eye" to display an open-eye icon, and changes the password input type back to "password" to hide the password.
 
 // Handling form submission event
 form.addEventListener("submit", handleFormData);
